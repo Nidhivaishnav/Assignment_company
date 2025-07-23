@@ -1,0 +1,10 @@
+requests>=2.31.0
+xmltodict>=0.13.0
+colorama>=0.4.6
+
+# Development dependencies
+pytest>=7.4.3
+pytest-cov>=4.1.0
+black>=23.11.0
+flake8>=6.1.0
+mypy>=1.7.1 
